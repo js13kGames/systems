@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - adventure
+  - survival
 post: https://github.com/nesrak1/systems/wiki/Post-Mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
